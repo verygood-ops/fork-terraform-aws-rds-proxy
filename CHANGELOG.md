@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.4.1](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy/compare/v4.4.0...v4.4.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#48](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy/issues/48)) ([4f0f292](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy/commit/4f0f2922fef330c1a6c2fdc93973a8618572ee21))
+
 ## [4.4.0](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy/compare/v4.3.0...v4.4.0) (2026-01-15)
 
 ### Features
